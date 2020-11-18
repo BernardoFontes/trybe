@@ -1,0 +1,18 @@
+<style>
+    h1{
+        size: "65px";
+        color: orange;
+        font-family: sans-serif;
+    }
+    .Verde{background-color: green;}
+    p{font-weight: 600;
+    font-size: "48px";
+    font-style: italic;}
+    body{font-size: "16px";
+    line-height: normal;
+    text-align: center;
+    text-decoration: greenyellow;}
+    #Beielo{background-color: yellow;}
+    #Bremeio{background-color: red;}
+    #Marrao{background-color: brown;}
+    </style>
