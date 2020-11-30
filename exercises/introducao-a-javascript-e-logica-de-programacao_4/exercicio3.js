@@ -6,5 +6,5 @@ let info = {
   info ["recorrente"] = "Sim";
 
   for(let vars in info){
-      console.log(vars);
+      console.log(info[vars]);
   }
